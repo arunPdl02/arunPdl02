@@ -38,18 +38,11 @@
 
 ---
 
-## 🚀 About Me
+## 💻 About Me
 
-I'm a **Computer Science student** who loves building things end to end: full-stack web apps, multiplayer games, systems tools, and AI-powered products. Most of my best work comes out of **hackathons**, where I've shipped projects like **bleet** (nwHacks) and **BudgetBrawl**.
+I'm a 4th year **Computer Science student** at Simon Fraser University (SFU) who loves building full-stack web apps, multiplayer games, systems tools, and AI-powered products. Most of my best work comes out of **hackathons**, where I've shipped projects like **bleet** (nwHacks) and **BudgetBrawl** (Mountain Madness).
 
-Lately I've been digging into **LLM agents & RAG**, **machine learning pipelines**, and **backend development in Go**. 🤖
-
-- 🎓 **Education:** Computer Science at **Simon Fraser University**
-- 🔭 **Currently building:** AI-powered tools with LLM function calling and retrieval-augmented generation
-- 🌱 **Currently learning:** Go, CI/CD, and production backend engineering
-- ⚡ **Hackathons:** nwHacks, StormHacks 2025, and more
-- 🤝 **Open to:** Internships, co-op roles, and collaborating on side projects
-- 📫 **Reach me:** [mailarunpaudel@gmail.com](mailto:mailarunpaudel@gmail.com)
+Want to hire me? Collaborate on hackathons? projects? coffee-chat? You can reach my email at mailarunpaudel@gmail.com
 
 ---
 
