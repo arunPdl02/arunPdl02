@@ -38,7 +38,7 @@
 
 ---
 
-## 💻 About Me
+## 🌱 About Me
 
 I'm a 4th year **Computer Science student** at Simon Fraser University (SFU) who loves building full-stack web apps, multiplayer games, systems tools, and AI-powered products. Most of my best work comes out of **hackathons**, where I've shipped projects like **bleet** (nwHacks) and **BudgetBrawl** (Mountain Madness).
 
