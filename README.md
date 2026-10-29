@@ -9,14 +9,14 @@
 <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="120" style="border-radius: 50%;"/>
 
 <!-- Social Links with Enhanced Badges -->
-<!-- TODO: replace the LinkedIn, Portfolio and Resume links with your own (or delete the badge) -->
+<!-- TODO: uncomment the Resume badge below and add your resume link -->
 <div id="badges" style="margin: 20px 0;">
   <a href="https://www.linkedin.com/in/arunPdl02" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <!-- <a href="https://YOUR-PORTFOLIO.com" target="_blank">
+  <a href="https://arunpaudel.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-  </a> -->
+  </a>
   <a href="https://github.com/arunPdl02" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -40,7 +40,7 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science student** who loves building things end to end: full-stack web apps, multiplayer games, systems tools, and AI-powered products. Most of my best work comes out of **hackathons**, where I've shipped projects like **bleet** (nwHacks), **Kaeru** (StormHacks 2025), and **BudgetBrawl**.
+I'm a **Computer Science student** who loves building things end to end: full-stack web apps, multiplayer games, systems tools, and AI-powered products. Most of my best work comes out of **hackathons**, where I've shipped projects like **bleet** (nwHacks) and **BudgetBrawl**.
 
 Lately I've been digging into **LLM agents & RAG**, **machine learning pipelines**, and **backend development in Go**. 🤖
 
@@ -49,7 +49,7 @@ Lately I've been digging into **LLM agents & RAG**, **machine learning pipelines
 - 🌱 **Currently learning:** Go, CI/CD, and production backend engineering
 - ⚡ **Hackathons:** nwHacks, StormHacks 2025, and more
 - 🤝 **Open to:** Internships, co-op roles, and collaborating on side projects
-- 📫 **Reach me:** [mailarunpaudel@gmail.com](mailto:mailarunpaudel@gmail.com) <!-- TODO: your public email -->
+- 📫 **Reach me:** [mailarunpaudel@gmail.com](mailto:mailarunpaudel@gmail.com)
 
 ---
 
@@ -90,11 +90,6 @@ Lately I've been digging into **LLM agents & RAG**, **machine learning pipelines
   <img src="https://img.shields.io/badge/Snowflake_Cortex-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake Cortex"/>
 </div>
 
-**Areas of focus:**
-- **LLM Agents** — Function calling with explicit schemas and sandboxed, deterministic tool execution
-- **Retrieval-Augmented Generation** — Chatbots that answer questions grounded in real business data
-- **Supervised Learning** — Reproducible pipelines with feature selection, model tuning, and leakage-free evaluation
-
 ### Databases, Cloud & DevOps
 
 <div align="center">
@@ -124,13 +119,12 @@ Lately I've been digging into **LLM agents & RAG**, **machine learning pipelines
 
 | Project | Description | Tech Stack | Link |
 | ------- | ----------- | ---------- | ---- |
-| **bleet** | **nwHacks project.** LeetCode-style practice for Blender 3D modeling: models are validated at the vertex level with real-time visual feedback. | `Python`, `TypeScript`, `Blender` | [GitHub Repo](https://github.com/arunPdl02/nwHacks) |
-| **Kaeru** | **StormHacks 2025 project.** An AI-powered financial operations platform that automates subscription cancellations, fraud disputes, and customer outreach. | `TypeScript`, `AI Agents` | [GitHub Repo](https://github.com/arunPdl02/kaeru) |
-| **BudgetBrawl** | **Hackathon project.** Turns your Google Calendar into spending predictions with Snowflake Cortex, then lets you bet friends you'll stay under budget. | `React`, `FastAPI`, `Snowflake Cortex`, `Google OAuth` | [GitHub Repo](https://github.com/arunPdl02/BudgetBrawl) |
-| **Cable TV ERP** | A full-stack ERP for cable TV operations (customers, billing, inventory, support tickets) with a RAG chatbot that answers questions about business data. | `Python`, `Flask`, `MySQL`, `RAG` | [GitHub Repo](https://github.com/arunPdl02/ERP-software) |
-| **Easy Code** | A sandboxed command-line coding agent that uses Gemini function calling to inspect, edit, and run code safely inside a bounded directory. | `Python`, `Gemini API` | [GitHub Repo](https://github.com/arunPdl02/easy-code) |
-| **Clash of Typers** | A real-time multiplayer typing game: race to break locks on a 5x5 grid, built on raw TCP sockets with a lobby and synchronized start. | `Python`, `TCP Sockets` | [GitHub Repo](https://github.com/arunPdl02/ClashOfTypers) |
-| **Gator** | A command-line RSS blog aggregator. | `Go`, `PostgreSQL` | [GitHub Repo](https://github.com/arunPdl02/gator) |
+| **bleet** | **nwHacks.** LeetCode-style Blender practice with vertex-level model validation. | `Python`, `TypeScript`, `Blender` | [GitHub Repo](https://github.com/arunPdl02/nwHacks) |
+| **BudgetBrawl** | **Hackathon.** Predicts spending from your Google Calendar; bet friends you'll stay under budget. | `React`, `FastAPI`, `Snowflake Cortex`, `Google OAuth` | [GitHub Repo](https://github.com/arunPdl02/BudgetBrawl) |
+| **Cable TV ERP** | Full-stack ERP for cable TV operations with a RAG chatbot over business data. | `Python`, `Flask`, `MySQL`, `RAG` | [GitHub Repo](https://github.com/arunPdl02/ERP-software) |
+| **Easy Code** | Sandboxed CLI coding agent using Gemini function calling. | `Python`, `Gemini API` | [GitHub Repo](https://github.com/arunPdl02/easy-code) |
+| **Clash of Typers** | Real-time multiplayer typing game over raw TCP sockets. | `Python`, `TCP Sockets` | [GitHub Repo](https://github.com/arunPdl02/ClashOfTypers) |
+| **Gator** | CLI RSS feed aggregator. | `Go`, `PostgreSQL` | [GitHub Repo](https://github.com/arunPdl02/gator) |
 
 ---
 
@@ -163,7 +157,7 @@ Lately I've been digging into **LLM agents & RAG**, **machine learning pipelines
 **Always excited to collaborate on hackathon ideas, AI tools, and full-stack projects!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arunPdl02)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=todoist)](https://YOUR-PORTFOLIO.com) -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=todoist)](https://arunpaudel.com)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mailarunpaudel@gmail.com)
 
 </div>
